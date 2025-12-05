@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Electrical Engineering at the **University of Houston**, specializing in **robust control, autonomous systems, and robotics**. My research focuses on bridging **control theory with machine learning** for UAVs, manipulators, and autonomous vehicles
+I am a Ph.D. candidate in Electrical Engineering at the **University of Houston**, specializing in **safe, robust control, autonomous systems, and robotics**. My research focuses on bridging **control theory with machine learning** for UAVs, manipulators, and autonomous vehicles
 
 My research interests include:
-* **Control Systems:** Model Predictive Control (MPC), Control Barrier Functions (CBF), Extended State Observer (ESO).
+* **Control Systems:** Active Disturbance Rejection Control (ADRC), Control Barrier Functions (CBF), Extended State Observer (ESO), Model Predictive Control (MPC).
 * **Robotics Platforms:** PX4 UAVs, F1Tenth racing cars, Quadruped robots (HOPPY), and Manipulators.
