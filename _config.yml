@@ -2,24 +2,25 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: blank # 保持 blank
 first_name: Fan
-middle_name: 
+middle_name:
 last_name: Zhang
+[cite_start]email: fzhang28@CougarNet.UH.EDU # [cite: 2]
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate in Electrical Engineering specializing in safe, robust control, autonomous systems, and robotics.
+
+description: >
+  Ph.D. Candidate in Electrical Engineering specializing in safe, robust control, autonomous systems, and robotics. [cite_start]# [cite: 5]
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: robotics, robust control, autonomous systems, UAV, MPC, ADRC
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+[cite_start]keywords: robotics, robust control, autonomous systems, UAV, MPC, ADRC # [cite: 23, 24]
+lang: en
+icon: ⚛️
 
 url: https://fzhang327.github.io
-baseurl: 
+baseurl: ""  # 必须留空，且不能和下一行连在一起
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
