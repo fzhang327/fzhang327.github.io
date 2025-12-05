@@ -8,13 +8,10 @@ middle_name:
 last_name: Zhang
 [cite_start]email: fzhang28@CougarNet.UH.EDU # [cite: 2]
 contact_note: >
-
 description: >
   Ph.D. Candidate in Electrical Engineering specializing in safe, robust control, autonomous systems, and robotics. [cite_start]# [cite: 5]
-
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-
 [cite_start]keywords: robotics, robust control, autonomous systems, UAV, MPC, ADRC # [cite: 23, 24]
 lang: en
 icon: ⚛️
